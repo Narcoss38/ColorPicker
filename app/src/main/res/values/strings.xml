@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Color Picker</string>
+    <string name="action_settings">Settings</string>
+    <string name="Red">0</string>
+    <string name="Green">0</string>
+    <string name="Blue">0</string>
+    <string name="color_hexa">#ff000000</string>
+    <string name="toast">Color copied to the clipboard</string>
+
+</resources>

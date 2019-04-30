@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Color Picker</string>
+    <string name="color_hexa">#ff000000</string>
+    <string name="toast">Couleur copier dans le presse papier</string>
+    <string name="action_settings">Paramètre</string>
+    <string name="Red">0</string>
+    <string name="Green">0</string>
+    <string name="Blue">0</string>
+</resources>
